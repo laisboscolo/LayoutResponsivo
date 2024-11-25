@@ -10,5 +10,21 @@ A segunda atividade foi a de tela de login, onde foi produzida uma tela de login
 
 Telas desktop
 
- ![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/bf70b0fe-24c0-47e9-8183-312c10d5091c)
+
+Tela Moblie
+
+![image](https://github.com/user-attachments/assets/c9bccbc5-5d24-456d-adcb-9c745eb66cf8)
+
+* 2. Atividade Tela de Login
+
+Telas desktop
+
+![image](https://github.com/user-attachments/assets/ee4cc959-e9b1-4731-b73e-6297c5161541)
+
+Tela Mobile
+
+![image](https://github.com/user-attachments/assets/f9494b21-06d6-4903-b987-5bd2572eae52)
+
+
 
